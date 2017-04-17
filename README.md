@@ -1,7 +1,7 @@
 # test coverage for  [flux (v3.1.2)](http://facebook.github.io/flux/)  [![npm package](https://img.shields.io/npm/v/npmtest-flux.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-flux) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-flux.svg)](https://travis-ci.org/npmtest/node-npmtest-flux)
 #### An application architecture based on a unidirectional data flow
 
-[![NPM](https://nodei.co/npm/flux.png?downloads=true)](https://www.npmjs.com/package/flux)
+[![NPM](https://nodei.co/npm/flux.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/flux)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-flux/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-flux/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-flux/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-flux/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-flux/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-flux/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-flux/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-flux/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-flux/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-flux/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-flux%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-flux/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-flux/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-flux/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-flux/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-flux%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-flux/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-flux/build/test-report.html](https://npmtest.github.io/node-npmtest-flux/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-flux/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-flux/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-flux/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-flux/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-flux/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-flux/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-flux/build/screenCapture.npmPackageListing.svg)
 
@@ -34,20 +40,16 @@
     },
     "contributors": [
         {
-            "name": "Jing Chen",
-            "email": "jingc@fb.com"
+            "name": "Jing Chen"
         },
         {
-            "name": "Bill Fisher",
-            "email": "fisherwebdev@gmail.com"
+            "name": "Bill Fisher"
         },
         {
-            "name": "Paul O'Shannessy",
-            "email": "paul@oshannessy.com"
+            "name": "Paul O'Shannessy"
         },
         {
-            "name": "Kyle Davis",
-            "email": "kyldvs@gmail.com"
+            "name": "Kyle Davis"
         }
     ],
     "dependencies": {
@@ -120,16 +122,13 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "fisherwebdev",
-            "email": "fisherwebdev@gmail.com"
+            "name": "fisherwebdev"
         },
         {
-            "name": "fb",
-            "email": "opensource+npm@fb.com"
+            "name": "fb"
         },
         {
-            "name": "kyldvs",
-            "email": "kyldvs@gmail.com"
+            "name": "kyldvs"
         }
     ],
     "name": "flux",
@@ -137,7 +136,6 @@
     "peerDependencies": {
         "react": "^15.0.2"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/facebook/flux.git"
