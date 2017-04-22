@@ -1,4 +1,7 @@
-# test coverage for  [flux (v3.1.2)](http://facebook.github.io/flux/)  [![npm package](https://img.shields.io/npm/v/npmtest-flux.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-flux) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-flux.svg)](https://travis-ci.org/npmtest/node-npmtest-flux)
+# npmtest-flux
+
+#### basic test coverage for  [flux (v3.1.2)](http://facebook.github.io/flux/)  [![npm package](https://img.shields.io/npm/v/npmtest-flux.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-flux) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-flux.svg)](https://travis-ci.org/npmtest/node-npmtest-flux)
+
 #### An application architecture based on a unidirectional data flow
 
 [![NPM](https://nodei.co/npm/flux.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/flux)
@@ -145,7 +148,8 @@
         "prepublish": "gulp publish",
         "test": "NODE_ENV=test jest"
     },
-    "version": "3.1.2"
+    "version": "3.1.2",
+    "bin": {}
 }
 ```
 
